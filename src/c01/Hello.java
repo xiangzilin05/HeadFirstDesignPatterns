@@ -21,5 +21,6 @@ public class Hello {
         model.performFly();
         model.setFlyBehavior(new FlyRocket());
         model.performFly();
+        System.out.println("===============================================");
     }
 }
